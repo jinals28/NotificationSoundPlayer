@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlayerDemo</string>
+    <string name="notification_sound">Notification Sound</string>
+    <string name="play_sound">Play Sound</string>
+    <string name="sound_picker">Notification Sound Player</string>
+    <string name="enter_duration">Enter duration in seconds</string>
+</resources>
